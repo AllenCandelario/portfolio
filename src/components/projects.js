@@ -80,11 +80,6 @@ class Projects extends Component {
             <CardText>
               Used ReactJS to create this portfolio
             </CardText>
-            <CardActions border>
-              <Button colored>
-                <a href="google.com" rel="noopener noreferrer" target="_blank">Portfolio</a>
-              </Button>
-            </CardActions>
           </Card>
         </div>
       )
